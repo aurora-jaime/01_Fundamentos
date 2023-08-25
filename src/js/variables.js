@@ -22,3 +22,4 @@ console.log('Como String:'+ x);
 console.log('Como Number:'+ (x*1));
 console.log('Como Boolean:'+((x)? true:false));
 
+//Los arreglos son objetos. 
